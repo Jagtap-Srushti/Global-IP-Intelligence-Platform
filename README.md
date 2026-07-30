@@ -71,6 +71,7 @@ Watch the application in action:
 ▶️ **Project Demo:** [View Demo Video](https://drive.google.com/drive/folders/1I2w5xMvQ-hObvumSUKJ-T-UspiKCzUDN?usp=sharing)
 
 ▶️ **Project PPT:** [View Demo Video](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9mYzE4ZDZiNGY3NWIwNTc2L0lRQ2NjV1pvd1E3NVNwTU95bXE2RHhlX0FiZjRKSHUtLTUwd3o5UlNuOVh6Q0wwP1RlYW1zQ0lEPWUxY2I3NDQ0LTM2NWItNGU5OS1iNTViLTgzOTQ4MmU4OGQ2MCZsaW5rT3BlblRpbWU9MTc4NTQxMTk2MTIzNw&cid=FC18D6B4F75B0576&id=FC18D6B4F75B0576%21s6866719c0ec14af9930eca6aba0f17bf&parId=FC18D6B4F75B0576%21sc84cab6eaea34c2daf38153e0a06de20&o=OneUp)
+
 ---
 
 ## 🏗️ System Architecture
