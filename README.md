@@ -26,68 +26,43 @@ This platform addresses these challenges by providing a **centralized solution f
 ---
 
 ## 🎯 Project Objectives
-
-- Build a centralized IP intelligence platform
-- Provide advanced patent and trademark search
-- Implement secure JWT authentication
-- Support role-based authorization
-- Monitor competitor filings
-- Track legal status updates
-- Visualize IP lifecycle and trends
-- Integrate global IP data sources
-
+ 
+| | |
+|---|---|
+| 🏢 | Build a centralized IP intelligence platform |
+| 🔍 | Provide advanced patent and trademark search |
+| 🔐 | Implement secure JWT authentication |
+| 🛡️ | Support role-based authorization |
+| 📈 | Monitor competitor filings |
+| ⚖️ | Track legal status updates |
+| 🗺️ | Visualize IP lifecycle and trends |
+| 🌍 | Integrate global IP data sources |
+ 
 ---
-
+---
 ## ✨ Features
 
-- 👤 User Registration & Login
-- 🔐 JWT Authentication
-- 🛡️ Role-Based Access Control
-- 🔍 Patent Search
-- 🔍 Trademark Search
-- 📈 Competitor Filing Tracking
-- ⚖️ Legal Status Monitoring
-- 📊 Interactive Dashboard
-- 🗺️ IP Landscape Visualization
-- 🧑‍💼 Admin Dashboard
-- ❤️ API Health Monitoring
-- 📱 Responsive User Interface
+| Category | Features |
+|----------|----------|
+| 🔐 Authentication | User Registration, Login, JWT Authentication, Role-Based Access Control |
+| 🔍 IP Search | Patent Search, Trademark Search, Competitor Filing Tracking, Legal Status Monitoring |
+| 📊 Analytics | Interactive Dashboard, IP Landscape Visualization, API Health Monitoring |
+| 👨‍💼 Administration | Admin Dashboard, User Management, System Logs |
+| 📱 User Experience | Responsive UI, Intuitive Navigation |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- React.js
-- Tailwind CSS
-- JavaScript
-
-### Backend
-- Java
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-
-### Database
-- PostgreSQL
-
-### Authentication
-- JWT
-- OAuth2 (Optional)
-
-### External APIs
-- WIPO
-- USPTO
-- EPO
-- TMView
-- OpenCorporates
-
-### Other Tools
-- Maven
-- Git
-- GitHub
-- Postman
-
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | React.js, Tailwind CSS, JavaScript |
+| **Backend** | Java, Spring Boot, Spring Security, Spring Data JPA |
+| **Database** | PostgreSQL |
+| **Authentication** | JWT Authentication, OAuth2 |
+| **Build Tool** | Maven |
+| **Version Control** | Git, GitHub |
+| **API Testing** | Postman |
 ---
 ## 🎥 Demo
 
@@ -95,7 +70,8 @@ Watch the application in action:
 
 ▶️ **Project Demo:** [View Demo Video](https://drive.google.com/drive/folders/1I2w5xMvQ-hObvumSUKJ-T-UspiKCzUDN?usp=sharing)
 
-▶️ **Project Demo:** [View Demo Video](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9mYzE4ZDZiNGY3NWIwNTc2L0lRQ2NjV1pvd1E3NVNwTU95bXE2RHhlX0FiZjRKSHUtLTUwd3o5UlNuOVh6Q0wwP1RlYW1zQ0lEPWUxY2I3NDQ0LTM2NWItNGU5OS1iNTViLTgzOTQ4MmU4OGQ2MCZsaW5rT3BlblRpbWU9MTc4NTQxMTk2MTIzNw&cid=FC18D6B4F75B0576&id=FC18D6B4F75B0576%21s6866719c0ec14af9930eca6aba0f17bf&parId=FC18D6B4F75B0576%21sc84cab6eaea34c2daf38153e0a06de20&o=OneUp)
+▶️ **Project PPT:** [View Demo Video](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9mYzE4ZDZiNGY3NWIwNTc2L0lRQ2NjV1pvd1E3NVNwTU95bXE2RHhlX0FiZjRKSHUtLTUwd3o5UlNuOVh6Q0wwP1RlYW1zQ0lEPWUxY2I3NDQ0LTM2NWItNGU5OS1iNTViLTgzOTQ4MmU4OGQ2MCZsaW5rT3BlblRpbWU9MTc4NTQxMTk2MTIzNw&cid=FC18D6B4F75B0576&id=FC18D6B4F75B0576%21s6866719c0ec14af9930eca6aba0f17bf&parId=FC18D6B4F75B0576%21sc84cab6eaea34c2daf38153e0a06de20&o=OneUp)
+---
 
 ## 🏗️ System Architecture
 
@@ -105,32 +81,13 @@ Watch the application in action:
 
 ## 🧩 Modules
 
-### Authentication
-- Registration
-- Login
-- JWT Authentication
-- Role Management
-
-### Patent & Trademark Search
-- Keyword Search
-- Assignee Search
-- Inventor Search
-- Jurisdiction Filters
-
-### Filing Tracker
-- Filing Monitoring
-- Subscription System
-- Competitor Tracking
-
-### Dashboard
-- Legal Status
-- IP Landscape
-- Trend Analysis
-
-### Admin Module
-- API Health
-- Usage Logs
-- User Management
+| Module | Description |
+|--------|-------------|
+| 🔐 **Authentication & Authorization** | Secure user registration, login, JWT-based authentication, and role-based access control for Users, Analysts, and Administrators. |
+| 🔍 **Patent & Trademark Search** | Search intellectual property records using filters such as keywords, inventors, assignees, jurisdictions, and technology domains. |
+| 📈 **Filing Tracker & Subscriptions** | Monitor competitor filings, subscribe to IP assets, and receive updates on changes in legal status. |
+| 📊 **Dashboard & Analytics** | Visualize IP landscapes, filing trends, legal status, and other key insights through interactive dashboards. |
+| 🛠️ **Admin Module** | Manage users, monitor API health, track system logs, and oversee platform administration. |
 
 ---
 
